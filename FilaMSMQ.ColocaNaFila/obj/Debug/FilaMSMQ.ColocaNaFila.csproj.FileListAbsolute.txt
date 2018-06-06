@@ -1,0 +1,8 @@
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\bin\Debug\FilaMSMQ.ColocaNaFila.exe.config
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\bin\Debug\FilaMSMQ.ColocaNaFila.exe
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\bin\Debug\FilaMSMQ.ColocaNaFila.pdb
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\bin\Debug\Newtonsoft.Json.dll
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\bin\Debug\Newtonsoft.Json.xml
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\obj\Debug\FilaMSMQ.ColocaNaFila.csprojResolveAssemblyReference.cache
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\obj\Debug\FilaMSMQ.ColocaNaFila.exe
+C:\Projeto\FilaMSMQ\FilaMSMQ.ColocaNaFila\obj\Debug\FilaMSMQ.ColocaNaFila.pdb

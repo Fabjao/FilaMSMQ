@@ -1,0 +1,8 @@
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\bin\Debug\FilaMSMQ.LerDaFila.exe.config
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\bin\Debug\FilaMSMQ.LerDaFila.exe
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\bin\Debug\FilaMSMQ.LerDaFila.pdb
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\bin\Debug\Newtonsoft.Json.dll
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\bin\Debug\Newtonsoft.Json.xml
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\obj\Debug\FilaMSMQ.LerDaFila.csprojResolveAssemblyReference.cache
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\obj\Debug\FilaMSMQ.LerDaFila.exe
+C:\Projeto\FilaMSMQ\FilaMSMQ.LerDaFila\obj\Debug\FilaMSMQ.LerDaFila.pdb
